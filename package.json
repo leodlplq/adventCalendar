@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodlplq/adventCalendar.git"
+  },
+  "author": "Léo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leodlplq/adventCalendar/issues"
+  },
+  "homepage": "https://github.com/leodlplq/adventCalendar#readme",
+  "description": "",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
